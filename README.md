@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/VladimirKMr/VladimirKMr/main/media/Hello_gif.gif" alt="" srcset="" width="100%" height="360">
+<h1 align="center"><img src="https://raw.githubusercontent.com/VladimirKMr/VladimirKMr/main/media/Hello_gif.gif" alt="" srcset="" width="70%" height="70%">
 
 
 <h1 align="center">Hi 👋, I'm Vladimir Komarov</h1>
